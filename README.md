@@ -32,6 +32,7 @@ Run the installation script to set up the tool:
 
 ```bash
 bash requirements.sh
+```
 
 Follow the on-screen instructions to complete the installation. The `requirements.sh` script will install Katana, clone SecretFinder, and install Python dependencies.
 
@@ -44,6 +45,7 @@ bash js_snooper.sh
 ```
 
 Follow the on-screen prompts to enter the domain name of the website you want to scan.
+
 
 ## License
 
