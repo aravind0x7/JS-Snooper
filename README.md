@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aravind0x7/JS-Snooper/assets/97963390/b1f23266-e3d0-47cb-9920-f56a0880eec2)
 # JS-Snooper 🕵️‍♂️
 JS-Snooper is a powerful tool designed to hunt for sensitive information hidden within JavaScript files on websites. It automates the process of scanning websites for JavaScript files and identifies potentially sensitive information using pre-written tools Katana and SecretFinder.
 
@@ -45,6 +45,12 @@ bash js_snooper.sh
 ```
 
 Follow the on-screen prompts to enter the domain name of the website you want to scan.
+
+## Screenshots
+
+![image](https://github.com/aravind0x7/JS-Snooper/assets/97963390/c6872c34-5c25-4098-8431-bcef7f8d93bf)
+
+![image](https://github.com/aravind0x7/JS-Snooper/assets/97963390/646814b4-2415-450b-b89a-365ac15b4139)
 
 
 ## License
