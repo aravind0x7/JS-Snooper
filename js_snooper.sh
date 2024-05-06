@@ -17,6 +17,7 @@ display_banner() {
     echo -e "${RED}#${NC}  ${YELLOW}\___/ |____/       |____/ |_| |_| \___/  \___/ | .__/  \___||_|   ${RED}#${NC}"
     echo -e "${RED}#${NC}                                                 ${YELLOW}|_|                ${RED}#${NC}"
     echo -e "${RED}######################################################################${NC}"
+    echo -e "${YELLOW}                              Version 1.0${NC}"
     echo -e "${YELLOW}                Author: aravind0x7 - www.aravind0x7.in${NC}"
     echo
     echo -e "${GREEN}Welcome to the JS-Snooper! Your bloodhound for hidden info in those JS files.${NC}"
