@@ -60,8 +60,16 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Author
 Gnana Aravind K ([aravind0x7](www.aravind0x7.in))
 
-## Acknowledgements
+## Credits
 
 - [ProjectDiscovery Katana](https://github.com/projectdiscovery/katana)
 - [SecretFinder](https://github.com/m4ll0k/SecretFinder)
+
+## Version
+
+- Current, JS-Snooper Version 1.0
+
+## Guide and Blogs
+
+- https://medium.com/@aravind07/js-snooper-get-more-bounty-with-easy-bugs-9d7b410f070e
 
