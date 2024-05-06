@@ -69,7 +69,7 @@ Gnana Aravind K ([aravind0x7](www.aravind0x7.in))
 
 - Current, JS-Snooper Version 1.0
 
-## Guide and Blogs
+## Guides and Blogs
 
 - https://medium.com/@aravind07/js-snooper-get-more-bounty-with-easy-bugs-9d7b410f070e
 
