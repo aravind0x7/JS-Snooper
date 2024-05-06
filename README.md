@@ -65,6 +65,12 @@ Gnana Aravind K ([aravind0x7](www.aravind0x7.in))
 - [ProjectDiscovery Katana](https://github.com/projectdiscovery/katana)
 - [SecretFinder](https://github.com/m4ll0k/SecretFinder)
 
+## Compatibility
+
+Tested on,
+- Kali Linux
+- Parrot Security OS
+
 ## Version
 
 - Current, JS-Snooper Version 1.0
