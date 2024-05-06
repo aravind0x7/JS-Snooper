@@ -12,7 +12,7 @@ if command -v katana &> /dev/null; then
 else
     # Install Katana
     echo "Installing Katana..."
-    go install github.com/projectdiscovery/katana/v2/cmd/katana@latest
+    go install github.com/projectdiscovery/katana/cmd/katana@latest
 
     # Check if installation was successful
     if [ $? -eq 0 ]; then
