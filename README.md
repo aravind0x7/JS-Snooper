@@ -68,8 +68,7 @@ Gnana Aravind K ([aravind0x7](www.aravind0x7.in))
 ## Compatibility
 
 Tested on,
-- Kali Linux
-- Parrot Security OS
+- Kali Linux (Latest Version)
 
 ## Version
 
